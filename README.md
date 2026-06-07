@@ -1,4 +1,4 @@
-# 🎓 Pembuat Soal AI — Untuk Guru
+# SoalIn
 
 Aplikasi web untuk membuat soal ujian otomatis menggunakan AI (Google Gemini).
 Upload kisi-kisi PDF/DOCX atau ketik manual, atur jenis soal, dan download hasilnya dalam format Word.
